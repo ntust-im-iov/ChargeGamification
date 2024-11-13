@@ -1,5 +1,7 @@
 # ChargeGamification
 
+審查已建立
+=======
 ### Recent Activities
 <!--START_SECTION:activity-->
 1. 📝 Committed to [ntust-im-iov/ChargeGamification](https://github.com/ntust-im-iov/ChargeGamification/commit/b9097da9322461c990475bc6bc275d94eb1a2887)
@@ -13,3 +15,4 @@
 9. 📥 Opened [PR #1](https://github.com/ntust-im-iov/ChargeGamification/pull/1) in [ntust-im-iov/ChargeGamification](https://github.com/ntust-im-iov/ChargeGamification)
 10. 📝 Committed to [ntust-im-iov/ChargeGamification](https://github.com/ntust-im-iov/ChargeGamification/commit/eae4042ff27e4a9edaacb2e7a21b7edb8e60c258)
 <!--END_SECTION:activity-->
+
