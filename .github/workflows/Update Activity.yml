@@ -3,9 +3,12 @@
 name: Update GitHub Activity
 
 on:
-  schedule:
-    - cron: "0 0 */14 * *" # Runs every 14 days at midnight
-  workflow_dispatch: # Allows manual triggering
+  #schedule:
+   # - cron: "0 0 */14 * *" # Runs every 14 days at midnight
+ push:
+   branches:
+    - main  # 指定要監控的分支
+ workflow_dispatch: # Allows manual triggering
 
 jobs:
   update-activity:
